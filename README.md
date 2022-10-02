@@ -129,17 +129,17 @@ Elsa AI Voice assistant:"Loading your AI personal assistant Elsa
 	
 	5.time
 	
-  6.winshell
+  	6.winshell
   
 	7.Wolframalpha
   
-  8.requests
+  	8.requests
   
-  9.playsound
+  	9.playsound
   
-  10.gTTS
+  	10.gTTS
   
-  11.googletrans
+  	11.googletrans
 
 
 ### In-Built libraries required to be imported:
